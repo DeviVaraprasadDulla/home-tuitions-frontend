@@ -1,11 +1,6 @@
-const API_URL = "http://localhost:8000/api/testimonials/";
+import axiosInstance from "./axios";
 
 export const fetchTestimonials = async () => {
-  const res = await fetch(API_URL);
-
-  if (!res.ok) {
-    throw new Error("Failed to fetch testimonials");
-  }
-
-  return res.json();
+  const res = await axiosInstance.get("testimonials/");
+  return res.data;
 };
