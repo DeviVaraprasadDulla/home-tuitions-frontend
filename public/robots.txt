@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Block unnecessary paths
+Disallow: /admin/
+Disallow: /login/
+Disallow: /dashboard/
+
+# Sitemap (VERY IMPORTANT)
+Sitemap: https://studysadhana.com/sitemap.xml

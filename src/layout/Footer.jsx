@@ -114,7 +114,7 @@ export default function Footer() {
             <ul className="mt-5 space-y-4 text-sm">
               <li className="flex items-center gap-3 hover:text-white transition">
                 <Phone className="w-4 h-4 text-amber-400" />
-                +91 98765 43210
+                +91 82470 54254
               </li>
 
               <li className="flex items-center gap-3 hover:text-white transition">
