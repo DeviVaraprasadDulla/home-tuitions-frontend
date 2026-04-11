@@ -5,6 +5,10 @@
       "dest": "/google4dff6b59c66c93fc.html"
     },
     {
+      "src": "/favicon.png",
+      "dest": "/favicon.png"
+    },
+    {
       "src": "^/assets/(.*)",
       "dest": "/assets/$1"
     },
