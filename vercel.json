@@ -1,6 +1,10 @@
 {
   "routes": [
     {
+      "src": "/google4dff6b59c66c93fc.html",
+      "dest": "/google4dff6b59c66c93fc.html"
+    },
+    {
       "src": "^/assets/(.*)",
       "dest": "/assets/$1"
     },
