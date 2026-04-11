@@ -119,7 +119,7 @@ export default function Footer() {
 
               <li className="flex items-center gap-3 hover:text-white transition">
                 <Mail className="w-4 h-4 text-amber-400" />
-                support@hometuitions.com
+                studysadhana369@gmail.com
               </li>
 
               <li className="flex items-center gap-3 hover:text-white transition">
