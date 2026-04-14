@@ -6,8 +6,8 @@ const FloatingContactUltimate = () => {
   const [open, setOpen] = useState(false);
   const [showBubble, setShowBubble] = useState(false);
 
-  const phoneNumber = "7995297687";
-  const whatsappNumber = "917995297687";
+  const phoneNumber = "8247054254";
+  const whatsappNumber = "918247054254";
 
   // Auto open after 5 seconds
   useEffect(() => {
