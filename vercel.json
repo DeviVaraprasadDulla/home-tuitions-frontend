@@ -13,7 +13,11 @@
       "dest": "/assets/$1"
     },
     {
-      "src": "^(?!/assets/).*$",
+      "src": "^/(favicon\\.png)$",
+      "dest": "/favicon.png"
+    },
+    {
+      "src": "^(?!/assets/|/favicon\\.png).*$",
       "dest": "/index.html"
     }
   ]
