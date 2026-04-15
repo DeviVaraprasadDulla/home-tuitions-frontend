@@ -17,13 +17,13 @@ export default function Contact() {
           <div className="bg-white border border-gray-200 rounded-xl p-8 shadow-sm">
             <Phone className="w-6 h-6 text-blue-600 mx-auto mb-4" />
             <p className="font-medium text-gray-800">Phone</p>
-            <p className="mt-2 text-gray-600">+91 98765 43210</p>
+            <p className="mt-2 text-gray-600">+91 82470 54254</p>
           </div>
 
           <div className="bg-white border border-gray-200 rounded-xl p-8 shadow-sm">
             <Mail className="w-6 h-6 text-blue-600 mx-auto mb-4" />
             <p className="font-medium text-gray-800">Email</p>
-            <p className="mt-2 text-gray-600">support@hometuitions.com</p>
+            <p className="mt-2 text-gray-600">studysadhana369@gmail.com</p>
           </div>
 
           <div className="bg-white border border-gray-200 rounded-xl p-8 shadow-sm">
